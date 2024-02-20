@@ -1,0 +1,6 @@
+D:\dotNet\Testing\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.dll
+D:\dotNet\Testing\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+D:\dotNet\Testing\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.AssemblyReference.cache
+D:\dotNet\Testing\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.dll
+D:\dotNet\Testing\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb
